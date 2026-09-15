@@ -1,0 +1,11 @@
+{
+  "slug": "meme-license",
+  "name": "Meme License",
+  "kind": "token",
+  "description": "Attach concise remix permissions and provenance to viral onchain media.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
