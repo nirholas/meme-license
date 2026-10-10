@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "meme-license"
+abstract: "Attach concise remix permissions and provenance to viral onchain media."
+repository-code: "https://github.com/nirholas/meme-license"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
