@@ -8,7 +8,7 @@ Attach concise remix permissions and provenance to viral onchain media.
 
 - Source: https://github.com/nirholas/meme-license
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
